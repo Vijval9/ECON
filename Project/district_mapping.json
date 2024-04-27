@@ -1,0 +1,130 @@
+{
+    "West Bengal": {
+        "North Twenty Four Parganas": "24 Paraganas North",
+        "South Twenty Four Parganas": "24 Paraganas South",
+        "Jalpaiguri": ["Jalpaiguri", "Alipurduar"],
+        "Koch Bihar": "Coochbehar",
+        "Dakshin Dinajpur": "Dinajpur Dakshin",
+        "Uttar Dinajpur": "Dinajpur Uttar",
+        "Hugli": "Hooghly",
+        "Haora": "Howrah",
+        "Paschim Medinipur": ["Medinipur West", "Jhargram"],
+        "Purba Medinipur": "Medinipur East",
+        "Barddhaman": ["Paschim Bardhaman", "Purba Bardhaman"],
+        "Puruliya": "Purulia"
+    },
+    "Telangana": {
+        "Khammam": ["Khammam", "Bhadradri Kothagudem"],
+        "Karimnagar": ["Karimnagar", "Jagitial", "Peddapalli", "Rajanna Sircilla"],
+        "Nalgonda": ["Nalgonda", "Jangoan", "Suryapet", "Yadadri Bhuvanagiri"],
+        "Warangal": [
+            "Warangal",
+            "Warangal Urban",
+            "Warangal Rural",
+            "Jayashankar Bhupalapally",
+            "Mahabubabad",
+            "Hanumakonda"
+        ],
+        "Mahbubnagar": ["Mahabubnagar", "Jogulamba Gadwal", "Narayanpet", "Wanaparthy"],
+        "Nizamabad": ["Nizamabad", "Kamareddy"],
+        "Adilabad": ["Adilabad", "Kumuram Bheem Asifabad", "Mancherial", "Nirmal"],
+        "Rangareddy": ["Ranga Reddy", "Medchal Malkajgiri", "Vikarabad"],
+        "???": "Kurnool",
+        "Medak": ["Medak", "Sangareddy", "Siddipet"]
+    },
+    "Uttar Pradesh": {
+        "Moradabad": ["Moradabad", "Amroha", "Sambhal"],
+        "Faizabad": "Ayodhya",
+        "Varanasi": ["Varanasi", "Bhadohi"],
+        "Etah": ["Etah", "Kasganj"],
+        "Kushinagar": "Kushi Nagar",
+        "Allahabad": "Prayagraj",
+        "Sant Kabir Nagar": "Sant Kabeer Nagar",
+        "Siddharthnagar": "Siddharth Nagar",
+        "Muzaffarnagar": ["Muzaffarnagar", "Shamli"],
+        "Shrawasti": "Shravasti"
+    },
+    "Gujarat": {
+        "Ahmedabad": "Ahmadabad",
+        "Banaskantha": "Banas Kantha",
+        "Sabarkantha": "Sabar Kantha",
+        "Surat": ["Surat", "Tapi"]
+    },
+    "Maharashtra": {
+        "Ahmadnagar": "Ahmednagar",
+        "Bid": "Beed",
+        "Mumbai Suburban": ["Mumbai Suburban", "Mumbai"],
+        "Raigarh": "Raigad"
+    },
+    "Rajasthan": {
+        "Chittaurgarh": ["Chittorgarh", "Pratapgarh"],
+        "Dhaulpur": "Dholpur",
+        "Jalor": "Jalore"
+    },
+    "Madhya Pradesh": {
+        "West Nimar": "Khargone",
+        "Jabalpur": ["Jabalpur", "Narsinghpur"]
+    },
+    "Uttarakhand": {
+        "Udham Singh Nagar": "Udam Singh Nagar",
+        "Garhwal": "Pauri Garhwal",
+        "Tehri Garhwal": ["Garwha", "Uttar Kashi"]
+    },
+    "Haryana": {
+        "Mewat": "Nuh",
+        "???": "Palwal"
+    },
+    "Punjab": {
+        "Sahibzada Ajit Singh Nagar Mohali": "S.A.S Nagar"
+    },
+    "Andhra Pradesh": {
+        "Visakhapatnam": "Visakhapatanam"
+    },
+    "Jammu and Kashmir": {
+        "Udhampur": ["Udhampur", "Reasi"],
+        "Anantnag": ["Anantnag", "Kulgam"]
+    },
+    "Odisha": {
+        "Baudh": "Boudh",
+        "Jagatsinghpur": "Jagatsinghapur",
+        "Nabarangapur": "Nabarangpur",
+        "Subarnapur": "Sonepur"
+    },
+    "Bihar": {
+        "Purba Champaran": "Purbi Champaran",
+        "Kaimur Bhabua": "Kaimur (Bhabua)"
+    },
+    "Tamil Nadu": {
+        "Kancheepuram": "Kanchipuram",
+        "Kanyakumari": "Kanniyakumari",
+        "Thoothukudi": "Thoothukkudi",
+        "Coimbatore": ["Coimbatore", "Tiruppur"],
+        "Cuddalore": ["Cuddalore", "Villupuram"]
+    },
+    "Karnataka": {
+        "Gulbarga": ["Kalaburagi", "Yadgir"],
+        "Bellary": "Ballari",
+        "Davanagere": "Davangere",
+        "Chamarajanagar": "Chamarajanagara",
+        "Chikkaballapur": "Chikkaballapura",
+        "Chikmagalur": "Chikkamagaluru",
+        "Bagalkot": "Bagalkote",
+        "Bijapur": "Vijayapura"
+    },
+    "Chhattisgarh": {
+        "Dakshin Bastar Dantewada": "Dantewada",
+        "Janjgir–Champa": "Janjgir-Champa",
+        "Uttar Bastar Kanker": "Kanker",
+        "Surguja": "Surajpur",
+        "Koriya": "Korea"
+    },
+    "Jharkhand": {
+        "Sahibganj": "Sahebganj",
+        "Kodarma": "Koderma",
+        "Pashchimi Singhbhum": ["Pashchimi Singhbhum", "Saraikela Kharsawan"],
+        "Gumla": ["Gumla", "Simdega"]
+    },
+    "Meghalaya": {
+        "Jaintia Hills": ["Jaintia Hills", "East Jaintia Hills", "West Jaintia Hills"]
+    }
+}
